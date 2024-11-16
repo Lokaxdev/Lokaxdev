@@ -6,6 +6,6 @@
 \____/\____/\_|\_\\_/ \|/__/\\\____/\____\\__/  
                                                 
                                                 
-- 👋 Hi, I’m @Lokaxdev
-- 👀 I Am a developer just for fun
-- 🧐 I Live in indonesia
+👋 Hi, I’m @Lokaxdev
+👀 I Am a developer just for fun
+🧐 I Live in indonesia

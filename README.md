@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokaxdev&label=Profile%20views&color=0e75b6&style=flat" alt="lokaxdev" /> </p>
 
-- 🔭 I’m currently working on **Telegram Bots**
+- 🔭 I’m currently working on **Bots, Penetrating Test, Simple Projects**
 
 - 📫 How to reach me **alivemannn@gmail.com**
 

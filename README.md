@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LokaXDev</h1>
 <h3 align="center">A Developer just for fun, From indonesia!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokaxdev&label=Profile%20views&color=0e75b6&style=flat" alt="lokaxdev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lokaxdev&label=Profile%20views&color=0e75b6&style=flat" alt="lokaxdev" /> </p>
 
 - 🔭 I’m currently working on **Bots, Penetrating Test, Simple Projects**
 
